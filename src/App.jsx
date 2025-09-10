@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Landing from './pages/Landing';
-import AuthPage from './pages/login';
+import AuthPage from './pages/Login.jsx';
 import ServicesPage from './pages/Services';
 import ReportsPage from './pages/Reports';
 import ContactPage from './pages/Contact';
